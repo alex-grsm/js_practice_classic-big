@@ -1,1 +1,1 @@
-# js_practice_classic-big
+# Объемный проект в классическом стиле javaScript
