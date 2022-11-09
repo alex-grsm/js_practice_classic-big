@@ -1,11 +1,7 @@
-// import checkNumInputs from './checkNumInputs';
-
 const forms = () => {
     const form = document.querySelectorAll('form'),
         inputs = document.querySelectorAll('input'),
         upload = document.querySelectorAll('[name="upload"]');
-
-    // checkNumInputs('input[name="user_phone"]');
 
     const message = {
         loading: 'Загрузка...',
