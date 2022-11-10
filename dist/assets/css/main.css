@@ -509,11 +509,13 @@ h4 {
   opacity: 0.6;
   font-family: 'Circe Extra Bold', sans-serif;
   margin-left: 4rem;
-  appearance: none;
-  border: none;
+  /* appearance: none; */
+  /* border: none; */
   display: block;
   font-size: 1.9rem;
-  padding: 2rem 0;
+  margin: 1rem 0;
+  padding: 2rem 1rem;
+  width: 100%;
 }
 .calc .promocode {
   opacity: 0.6;
