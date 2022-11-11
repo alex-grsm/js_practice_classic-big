@@ -11,7 +11,7 @@ const scrolling = upSelector => {
         }
     });
 
-    // Scrolling with raf
+    // Scrolling with requestAnimationFrame
     let links = document.querySelectorAll('[href^="#"]'),
         speed = 0.3;
 
